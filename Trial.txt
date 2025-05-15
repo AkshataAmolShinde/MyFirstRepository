@@ -1,1 +1,2 @@
 It is a trial file
+Adding to Git skipping Staging
