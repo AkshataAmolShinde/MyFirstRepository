@@ -2,3 +2,4 @@ It is a trial file
 Adding to Git skipping Staging
 Adding this file to GitHub
 Making changes from github
+changes
